@@ -28,7 +28,7 @@ Build a simple rule-based chatbot that responds to predefined user inputs.
 Open a terminal in this folder and run:
 
 ```bash
-python chatbot.py
+py chatbot.py
 ```
 
 ### Example
